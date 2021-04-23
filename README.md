@@ -17,4 +17,4 @@ Việc Fork repo DATAcracy để có thể sử dụng source code của DATAcra
 
 **Ví dụ:** Chúng ta muốn phát triển thêm một tính năng mới cho dự án nhưng bạn lại phân vân phần thay đổi đó lại ảnh hưởng tới dự án chính. Lúc này branch cho phép có thể chuyển đổi qua lại giữa các trạng thái và phiên bản khác nhau của dự án. Như vậy khi phát triển một tính năng mới chúng ta có thể tạo trên 1 branch khác, sau khi update, hoàn thiện và có nhu cầu thì có thể merge lại vào master branch
 
--Commit messge: là một sự xác nhận thay đổi, lưu lại những chỉnh sửa trong file. Commit giống như 1 nhắc nhở việc bạn thực hiện những thay đổi. Có thể ghi chú thêm những mô tả trong commit message để dễ dàng hơn trong việc quản lý dự án, review lại được những thay đổi đó là gì. 
+- Commit messge: là một sự xác nhận thay đổi, lưu lại những chỉnh sửa trong file. Commit giống như 1 nhắc nhở việc bạn thực hiện những thay đổi. Có thể ghi chú thêm những mô tả trong commit message để dễ dàng hơn trong việc quản lý dự án, review lại được những thay đổi đó là gì. 
