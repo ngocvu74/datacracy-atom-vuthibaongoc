@@ -1,7 +1,7 @@
 **1. Github dùng để làm gì?**
 GitHub là một dịch vụ cung cấp kho lưu trữ mã nguồn Git cho các dự án phần mềm và được xem như một mạng xã hội cho các lập trình viên trao đổi, giao lưu học hỏi. GitHub cũng được xem như là nền tảng lưu trữ online về các dự án nhiều người làm
 
-**2. Repository là gì?***
+**2. Repository là gì?**
 Repository hay repo là một thư viện nơi chứa các files của dự án. Nó có thể đặt trong bộ lưu trữ của GitHub server hoặc trong repository của máy tính local. Người dùng có thể chứa files code, hình ảnh, âm thanh hoặc mọi thứ liên quan đến dự án trong một repository
 
 **3. Fork repo (DATAcracy) nhằm mục đích gì?**
